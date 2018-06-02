@@ -8,4 +8,4 @@ function isPalindrom( str ) {
   }
   return "YES";
 }
-process.stdout.write(isPalindrom(process.argv[1]));
+process.stdout.write(isPalindrom(process.argv[2]));
